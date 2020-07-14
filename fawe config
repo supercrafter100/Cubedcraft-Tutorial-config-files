@@ -77,11 +77,11 @@ web:
   #  - All schematics are anonymous and private
   #  - Downloads can be deleted by the user
   #  - Supports clipboard uploads, downloads and saves
-  url: "https://www.buildersrefuge.com/schematics/index.php"
+  url: "http://athion.net/fawe/"
   # The web interface for assets
   #  - All schematics are organized and public
   #  - Assets can be searched, selected and downloaded
-  assets: "https://www.buildersrefuge.com/schematics/index.php"
+  assets: "http://athion.net/fawe/"
 
 extent:
   # Don't bug console when these plugins slow down WorldEdit operations
